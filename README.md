@@ -30,8 +30,7 @@ Working within a 6-member Agile team, I focused on **user research, problem-solv
 ### 1. End-to-End Client User Flow
 *Mapping how a prospective homebuyer moves from checking bond affordability to submitting POPIA-compliant documents via browser-token session tracking—removing registration friction while keeping consultant follow-ups seamless.*
 
-**web application/stitch/projects/4782289258965386093/screens/54708e9e2f8f43f08143799a14dc1e16![Uploading image.png…]()
-**
+**[DRAG & DROP YOUR USER FLOW DIAGRAM PNG HERE]**
 
 ---
 

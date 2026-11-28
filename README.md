@@ -1,78 +1,35 @@
-# 🏡 XL Bonds KZN — Home Loan Application & Management Platform
+### Hi there, I'm Ahilya Surujpal 👋
 
-A multi-platform home loan management ecosystem developed as a final-year BCAD capstone project (Team *Midas Touch*) for a KwaZulu-Natal mortgage brokerage. The solution bridges the gap between first-time homebuyers, bond consultants, and multiple South African banking partners.
+I'm a **Bachelor of Computer and Information Sciences in Application Development (BCAD)** graduate based in South Africa, specializing in **UI/UX Design**, **User Research**, and **Systems/Business Analysis**. 
 
----
-
-## 🎯 The Problem & Discovery
-Applying for a home loan in South Africa involves complex paperwork, confusing affordability criteria, and slow back-and-forth communication between buyers, bond originators, and banks. 
-
-Through direct stakeholder consultations with the brokerage director and analysis of local homebuyer pain points (first-time buyers, refinancers, and property investors in KZN), we identified three core needs:
-1. **Frictionless Client Onboarding:** Allow prospective buyers to estimate bond affordability in ZAR and securely upload sensitive financial documents without mandatory account creation (using browser-token session tracking).
-2. **POPIA-Compliant Security:** Protect sensitive personal and financial documents (Offers to Purchase, Deeds of Sale, Bank Statements, Title Deeds) via file validation, malware scanning, encryption, and strict audit logging.
-3. **On-the-Go Admin Management:** Equip bond consultants with both a web dashboard and a companion mobile app to review submissions, manage website content, and respond to leads remotely.
+While I have a full-stack development foundation, my true passion lies in the discovery and design phases. I love diving deep into user research, uncovering root problems, and translating complex requirements into clear, intuitive digital experiences.
 
 ---
 
-## 🔍 My Role & Key Contributions
-Working within a 6-member Agile team, I focused on **user research, problem-solving, systems analysis, business feasibility, and UI/UX design**:
-* **Client Liaison & Requirements Discovery:** Authored the formal Client Agreement and translated weekly stakeholder consultations into actionable functional and non-functional requirements.
-* **User Flow & UX Wireframing:** Mapped the end-to-end client journey and designed low-fidelity desktop wireframes to establish clear visual hierarchy, guided bond calculations, and POPIA-compliant document uploads.
-* **High-Fidelity UI/UX Prototyping:** Co-designed interactive web and mobile prototypes in **Figma** and **Canva**, integrating the client's brand palette (`#2EA80F` Kelly Green, `#1F7A0A` Forest Green) with mobile responsiveness.
-* **Domain Modelling:** Designed the core **Domain Model Diagram** (Draw.io), mapping relationships across 10 core business entities.
-* **Cloud Cost & Scalability Analysis:** Modelled Microsoft Azure infrastructure running costs and operational feasibility across 100, 1,000, and 10,000+ user growth tiers.
-* **Change Management Strategy:** Developed a stakeholder impact assessment and rollout blueprint using the **ADKAR framework** to ensure smooth adoption by internal bond consultants and external clients.
+### 🔍 What I Bring to a Team
+* **Research & Problem-Solving:** Investigating user pain points, gathering stakeholder requirements, and turning ambiguous business needs into structured solutions.
+* **Business & Systems Analysis:** Mapping user journeys, designing Domain Models and ERDs, evaluating cloud cost feasibility, and planning smooth adoption with ADKAR change management.
+* **UI/UX Design & Prototyping:** Creating user-centered wireframes, clean visual hierarchies, and responsive interfaces grounded in real-world usability.
+* **Technical Translation:** Acting as the bridge between clients, designers, and developers because I understand how applications are engineered under the hood.
 
 ---
 
-## 🎨 Design & Analysis Showcase
+### 🛠️ My Toolkit
 
-### 1. End-to-End Client User Flow
-*Mapping how a prospective homebuyer moves from checking bond affordability to submitting POPIA-compliant documents via browser-token session tracking—removing registration friction while keeping consultant follow-ups seamless.*
-
-![End-to-End Client User Flow](user-flow.png.png)
-
-
----
-
-### 2. Low-Fidelity Desktop Wireframes
-*Early structural wireframes focusing on information architecture, South African National Credit Act (NCA) affordability inputs, and categorized document upload states before applying brand styling.*
-
-**[DRAG & DROP YOUR 3-FRAME WIREFRAME PNG HERE]**
+| **Analysis & Research** | **Design & Prototyping** | **Development & Cloud** |
+| :--- | :--- | :--- |
+| Requirements Gathering | Figma & Canva | C# / .NET / Java |
+| Domain Modelling & UML | Low- & High-Fidelity Wireframing | HTML5, CSS3, JavaScript |
+| Draw.io & MS Visio | User Flows & Journey Mapping | SQL & Microsoft Azure |
+| ADKAR Change Management | Design Systems & POPIA UX | Git & GitHub |
 
 ---
 
-### 3. High-Fidelity Prototypes (Web & Admin Mobile App)
-*Final visual designs incorporating the XL Bonds KZN brand palette (`#2EA80F` Kelly Green and `#1F7A0A` Forest Green), responsive layouts, and mobile consultant tools for reviewing applicant files on the go.*
-
-**[DRAG & DROP YOUR HIGH-FIDELITY FIGMA SCREENSHOTS HERE]**
-
-* 🔗 **[View Interactive Figma Prototype](#)** *(Replace `#` with your public Figma view-only link)*
+### 📌 Featured Work
+* **[XL Bonds KZN — Home Loan Application & Management Platform](https://github.com):** Collaborated with a KwaZulu-Natal mortgage brokerage to research, analyze, and design a POPIA-compliant home loan web platform. Led **requirements discovery, end-to-end user flow mapping, wireframing, high-fidelity UI design, Domain Modelling, Azure cost/scalability analysis**, and **ADKAR change management**.
 
 ---
 
-### 4. Domain Model Diagram (Systems Analysis)
-*Core analytical class model defining the 10 primary entities (`Client`, `LoanApplication`, `AffordabilityCalculation`, `UploadedDocument`, `ContactEnquiry`, `Testimonial`, `Consultant`, `BankPartner`, `LoanOffer`, `WebsiteAdmin`) and their business cardinalities.*
-
-**[DRAG & DROP YOUR DOMAIN MODEL DIAGRAM PNG HERE]**
-
----
-
-### 5. ADKAR Change Management & Rollout Blueprint
-*Structured adoption plan addressing stakeholder resistance, client digital literacy, and a 3-phase admin training and handover schedule prior to launch.*
-
-**[DRAG & DROP YOUR ADKAR DIAGRAM PNG HERE]**
-
----
-
-## 🏗️ Technical & Cloud Architecture
-* **Client Web Portal:** Interactive ZAR affordability calculator, browser-cookie token uploader, partnered bank showcase, client testimonials, and direct enquiry routing.
-* **Admin Web & Mobile Suite:** Two-factor authenticated (2FA) dashboard for reviewing applications, accessing uploaded files on mobile, managing awards/tips/bank partners, and tracking audit logs.
-* **Cloud & Security Stack:** Microsoft Azure (App Service, Azure SQL Database, Azure Blob/File Storage, Azure Key Vault, Azure Queue Service), SSL/TLS encryption, and POPIA compliance controls.
-
----
-
-## 🛠️ Tools & Methodologies Used
-* **Analysis & Modelling:** Draw.io, MS Visio, MS Project, UML, Domain Modelling, ADKAR Change Management
-* **UI/UX Design:** Figma, Canva, User Journey Mapping, Wireframing, Interactive Prototyping
-* **Cloud & DevOps:** Microsoft Azure, GitHub Actions CI/CD
+### 📫 Let's Connect
+* **LinkedIn:**(https://www.linkedin.com/in/ahilya-surujpal-515687431?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* **Email:** ahilyasurujpal02@gmail.com
